@@ -1,3 +1,4 @@
 # directlog-tastreio
-Rastreio para DirectLog /n
+Rastreio para DirectLog
+
 Extraia o arquivo 'Extract-me.rar' no diretório.
